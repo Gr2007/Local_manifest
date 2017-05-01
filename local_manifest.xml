@@ -5,7 +5,7 @@
   <project path="vendor/huawei/hwY635" name="Gr2007/android_vendor_huawei_hwY635" remote="github" revision="cm-14.1" />
   <project path="vendor/huawei/msm8916-common" name="Gr2007/android_vendor_huawei_msm8916-common" remote="github" revision="cm-14.1-new" />
   <project path="kernel/huawei/hwY635" name="Gr2007/android_kernel_huawei_msm8916" remote="github" revision="Dragon-N" />
-  <project path="prebuilts/gcc/linux_x86/arm/arm-eabi-6.2" name="Gr2007/arm-eabi-6.2" remote="github" revision="linaro" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-6.2" name="Gr2007/arm-eabi-6.2" remote="github" revision="linaro" />
 
   <project path="vendor/qcom/binaries" name="TheMuppets/proprietary_vendor_qcom_binaries" remote="github" revision="cm-14.1" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
